@@ -1,0 +1,41 @@
+.nav-element {
+  display: flex;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #152850;
+  padding: 0px 25px 0px 25px;
+  height: 13vh;
+}
+
+.website-logo {
+  width: 100px;
+}
+
+.logout-button {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  border-radius: 3px;
+  color: #ffffff;
+  font-weight: 600;
+  padding: 4px 15px 4px 15px;
+}
+
+.bg-container {
+  background-color: #152850;
+  height: 87vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-heading {
+  color: #ffffff;
+}
+
+.card-logo {
+  width: 350px;
+}
